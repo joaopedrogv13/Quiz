@@ -1,2 +1,2 @@
 # Quiz
-Quiz made with JS native
+The provided code is for a simple quiz application implemented using HTML, CSS, and JavaScript. It consists of a series of questions with multiple-choice answers. Users can select an answer for each question, and their score is displayed. Additionally, there is a "Back" button to navigate to the previous question, and the correct answer briefly changes its background color to green when selected. A favicon has been added to the website for visual branding.
